@@ -1,0 +1,6 @@
+{
+  "name": "BPMN Process Analyst Studio",
+  "description": "AI-powered assistant for IT Business Analysts to transform process requirements and interview notes into detailed BPMN 2.0 diagrams, sync with PM platforms, and generate enterprise documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
